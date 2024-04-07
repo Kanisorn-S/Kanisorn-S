@@ -18,8 +18,7 @@ Hi, my name is Kanisorn Sangchai and I'm currently studying at <br>the Internati
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kanisorn-S&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kanisorn-S&icon=2&color=2)](https://visitcount.itsvg.in)
